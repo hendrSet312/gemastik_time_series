@@ -1,4 +1,4 @@
-# gemastik_time_series
+Data yang akan disatukan didapat dari BPS , berikut adalah data yang dipakai :
 
 
 | No  | Nama Data                                                                             | Nama Kolom                                                          | Sumber Data                                                                                                                                           |
@@ -17,3 +17,6 @@
 | 12. | Persentase Rumah Tangga menurut Provinsi, Tipe Daerah dan Sumber Air Minum Layak      | persentase_air_bersih                                               | https://www.bps.go.id/indicator/29/854/1/persentase-rumah-tangga-menurut-provinsi-tipe-daerah-dan-sumber-air-minum-layak.html                         |
 
 Notes : 
+ -  Tingkat pengangguran terbuka dihitung berdasarkan rata - rata pengangguran dari bulan Februari sampai Oktober 
+ -  Tingkat persentase kemiskinan dihitung berdasarkan rata - rata persentase dari bulan Maret sampai September 
+ - Karena keterbatasan data, panjang jalan di tahun 2015 dihitung dengan ekstrapolasi panjang jalan dari tahun 2016 - 2022
